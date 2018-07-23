@@ -1,0 +1,1 @@
+# rugved-config-repository
